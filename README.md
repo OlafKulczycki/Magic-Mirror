@@ -1,3 +1,3 @@
 # Magic-Mirror and Pir Sensor control
 
-Die Daei Pir muss als CronJob eingestellt werden.
+Die Daei StandbySensor muss als CronJob eingestellt werden.
