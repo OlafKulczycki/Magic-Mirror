@@ -36,7 +36,7 @@ def turn_on():
     
 def turn_off():
     pass
-    #subprocess.call("/home/pi/Desktop/MonitorPir/monitor_off.sh", shell=True)
+    subprocess.call("/home/pi/Desktop/MonitorPir/monitor_off.sh", shell=True)
             
 #Main starten
 if __name__ == '__main__':
