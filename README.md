@@ -1,3 +1,4 @@
 # Magic-Mirror and Pir Sensor control
 
-Die Daei StandbySensor muss als CronJob eingestellt werden.
+Die Datei StandbySensor.py muss als CronJob eingestellt werden. 
+    Im Code unbedingt den benutzten GPIO Pin der Raspberry eintragen.
